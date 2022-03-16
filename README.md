@@ -17,7 +17,7 @@ Set a React app using create-react-app, understanding TyspeScript fundamentals, 
 
 ## Status
 
-In progress.
+Finished.
 
 ## Features
 
@@ -25,6 +25,7 @@ In progress.
 
 ## TODO
 
+ - Make the application reponsive.
 
 ## Author
 

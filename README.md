@@ -6,11 +6,11 @@ This project is part of the Rocketseat Ignite - ReactJS course.
  
 ## Preview
 
-![expenses-tracker](https://user-images.githubusercontent.com/56962997/153628545-9b5d4350-d31c-460d-aebc-3ba1e72228c1.gif)
+![movie-api](https://user-images.githubusercontent.com/56962997/158622625-afa9915b-9905-40b7-94be-cc288e449009.gif)
 
 ## Technologies
 
-- ReactJS, TypeScript, JSON Server, Styled-components.
+- ReactJS, TypeScript, JSON Server, Sass.
 
 ## Goals
 

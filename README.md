@@ -2,7 +2,7 @@
 
 Desktop application to display a list of movies based on its categories through an API. To simulate the API a JSON Server has been used for this project.
 
-This project is part of the Rocketseat Ignite - ReactJS course.
+This project is part of the Ignite - ReactJS course by Rocketseat.
  
 ## Preview
 

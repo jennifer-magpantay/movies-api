@@ -30,7 +30,7 @@ Finished.
 
 ## Author
 
-Developed by Jennifer Magpantay.
+Developed by RocketSeat.
 
 **Reach me out** 
 
